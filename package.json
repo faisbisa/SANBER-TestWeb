@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "cypress": "^12.6.0"
+  },
+  "name": "sanber-testweb",
+  "description": "INSTALL :\r 1. npm install cypress --save--dev\r 2. npm init\r 3. run npx cypress open\r 4. run npx cypress run",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "npx cypress run",
+    "open": "npx cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/faisbisa/SANBER-TestWeb.git"
+  },
+  "keywords": [
+    "test",
+    "cypress"
+  ],
+  "author": "Fais",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/faisbisa/SANBER-TestWeb/issues"
+  },
+  "homepage": "https://github.com/faisbisa/SANBER-TestWeb#readme"
+}
