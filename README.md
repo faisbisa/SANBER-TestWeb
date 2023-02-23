@@ -7,7 +7,11 @@ INSTALL :
 4. run npx cypress run
 5. buat file .gitignore
 
-Salah satu contoh hasil run dari API AUtomation with CYPRESS 
-- User Registration image.png
+Adapun Test Case :
+1. User Login kasir Demo:
+- Open Browser
+- User input url "https://kasirdemo.belajarqa.com"
+- Web url showing
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/19841139/220820888-bd574479-7e1f-478c-8757-2415d065f5ff.png">
 
 
