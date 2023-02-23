@@ -1,2 +1,5 @@
-\screenshot
-\videos
+/vs/
+/node_modules/
+./videos/
+/report
+./screenshoot/
